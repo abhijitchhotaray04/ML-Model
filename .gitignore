@@ -1,0 +1,3 @@
+*.pt
+.venv/
+__pylance__/
